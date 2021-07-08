@@ -13,7 +13,7 @@ That's because Microsoft checks if your computer meet minimum requirement.
 
 But, don't worry! **You can bypass it**.
 
-Just install [7zip](https://www.7-zip.org/download.html), [oscdimg](https://go.microsoft.com/fwlink/?linkid=2165884) and download win11_no_tpm.exe from [release]() and follow the instruction.
+Just install [7zip](https://www.7-zip.org/download.html), [oscdimg](https://go.microsoft.com/fwlink/?linkid=2165884) and download win11_no_tpm.exe from [release](https://github.com/Core-2-Extreme/Win11_no_tpm/releases) and follow the instruction.
 
 # How to use
 
