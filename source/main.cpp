@@ -29,14 +29,14 @@ const string app_lang_list[NUM_OF_LANG_LIST] = { "en", "jp", };
 const string app_checking_seven_zip_msg[NUM_OF_LANG_LIST] = { "Checking if 7zip available...", "7zipが利用可能か確認中・・・", };
 const string app_checking_oscdimg_msg[NUM_OF_LANG_LIST] = { "Checking if oscdimg available...", "oscdimgが利用可能か確認中・・・", };
 
-const string app_no_seven_zip_msg[NUM_OF_LANG_LIST] = { "7zip was not found!\nDo you want to enter 7zip path manually\?\?\?(in case of you've installed 7zip onto a different path)[Y/N]",
+const string app_no_seven_zip_msg[NUM_OF_LANG_LIST] = { "7zip was not found!\nDo you want to enter 7zip path manually\?\?\?(in case you've installed 7zip to a different path)[Y/N]",
 "7zipが検出されませんでした！\n手動で7zipのパスを入力しますか\?\?\?(7zipを別の場所へインストールした場合)[Y/N]", };
-const string app_no_oscdimg_msg[NUM_OF_LANG_LIST] = { "oscdimg was not found!\nDo you want to enter oscdimg path manually\?\?\?(in case of you've installed oscdimg onto a different path)[Y/N]",
+const string app_no_oscdimg_msg[NUM_OF_LANG_LIST] = { "oscdimg was not found!\nDo you want to enter oscdimg path manually\?\?\?(in case you've installed oscdimg to a different path)[Y/N]",
 "oscdimgが検出されませんでした！\n手動でoscdimgのパスを入力しますか\?\?\?(oscdimgを別の場所へインストールした場合)[Y/N]", };
 
-const string app_seven_zip_dl_link_msg[NUM_OF_LANG_LIST] = { "You have to install 7zip.\nYou can download 7zip from : https://www.7-zip.org/download.html\n",
+const string app_seven_zip_dl_link_msg[NUM_OF_LANG_LIST] = { "You need to install 7zip.\nYou can download 7zip from : https://www.7-zip.org/download.html\n",
 "7zipをインストールしなければいけません。\n以下から7zipをダウンロード可能です : https://www.7-zip.org/download.html\n", };
-const string app_oscdimg_dl_link_msg[NUM_OF_LANG_LIST] = { "You have to install oscdimg.\nYou can download oscdimg from : https://go.microsoft.com/fwlink/?linkid=2165884\n",
+const string app_oscdimg_dl_link_msg[NUM_OF_LANG_LIST] = { "You need to install oscdimg.\nYou can download oscdimg from : https://go.microsoft.com/fwlink/?linkid=2165884\n",
 "oscdimgをインストールしなければいけません。\n以下からoscdimgをダウンロード可能です : https://go.microsoft.com/fwlink/?linkid=2165884\n", };
 
 const string app_ask_seven_zip_path_msg[NUM_OF_LANG_LIST] = { "Please select 7z.exe .\n", "7z.exeを選択してください。\n", };
